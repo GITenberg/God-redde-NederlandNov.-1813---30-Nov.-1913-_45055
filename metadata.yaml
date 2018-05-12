@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43053'
     url: http://www.gutenberg.org/2009/agents/43053
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45055#God-redde-NederlandNov.-1813---30-Nov.-1913-
 gutenberg_issued: '2014-03-03'
 gutenberg_type: Text
 identifiers:
